@@ -23,7 +23,7 @@ procedimento consultar
 
 inicio
       escreval ("Quem procuras?")
-      escreval ("Toma ai")
+      escreval ("Toma ai!!")
 
 fimprocedimento
 
